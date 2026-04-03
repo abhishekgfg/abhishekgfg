@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🚀 Featured Projects
 
-<!--
-**abhishekgfg/abhishekgfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Major Projects
+- 🔗 **EduOrbix** – Education platform (React + Node.js)  
+- 🔗 **Zerodha Clone** – Trading UI + Backend system  
+- 🔗 **Clinic Management System** – Patient & admin management  
+- 🔗 **LMS Platform** – Learning management system  
+- 🔗 **Dashboard** – Admin analytics dashboard
+- 🔗 **Blog Website** – Content publishing platform  
+- 🔗 **Portfolio Website** – Personal portfolio  
+- 🔗 **Restaurant System** – Food ordering system  
+- 🔗 **Courses Platform** – Online courses UI  
+- 🔗 **Aurvik Project** – Custom web solution  
+- 🔗 **Zerodha Clone Backend** – Trading backend APIs  
+- 🔗 **Employee Management System** – HR management system  
+- 🔗 **Clinic Backend System** – Backend APIs for clinic  
+- 🔗 **JDIS Project**  
+- 🔗 **KKYadav Project**  
+- 🔗 **CM Project**  
+- 🔗 **Barya Project**  
+- 🔗 **IIST Project**  
+- 🔗 **Shodh-Sutra Project**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ More projects available in repositories section
