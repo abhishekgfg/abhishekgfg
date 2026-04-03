@@ -44,21 +44,39 @@ const abhishekKumar = {
     email: "your@email.com"
 };
 
- 💼 Services I Offer
+ ## 💼 Services I Offer
 
-🏗️ Backend Development
-RESTful & GraphQL API Design
-Microservices Architecture
-Database Design & Optimization
-Authentication & Authorization
-Real-time Systems (WebSockets)
-☁️ DevOps & Cloud
-Docker Containerization
-CI/CD Pipeline Setup
-AWS Deployment & Management
-Nginx Configuration
-Server Optimizationt  
+<div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏗️ Backend Development
+- RESTful & GraphQL API Design  
+- Microservices Architecture  
+- Database Design & Optimization  
+- Authentication & Authorization  
+- Real-time Systems (WebSockets)  
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ DevOps & Cloud
+- Docker Containerization  
+- CI/CD Pipeline Setup  
+- AWS Deployment & Management  
+- Nginx Configuration  
+- Server Optimization  
+
+</td>
+
+</tr>
+</table>
+
+</div>
 ---
  🛠 Tech Stack
 
