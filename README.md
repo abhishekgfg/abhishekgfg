@@ -10,37 +10,57 @@
 
 ---
 
-## 🧑‍💻 About Me
+ 🧑‍💻 About Me
 
 Full Stack Developer skilled in **React, Next.js, Node.js, Express, MongoDB, Java, C++, DSA, TypeScript, REST APIs, Redux, Redis, and DevOps**, with experience in building scalable and high-performance web applications.
 
 ---
+<h2>🚀 What I Do</h2>
 
-## 🚀 What I Do
-
-- 🔹 Build scalable full stack applications  
-- 🔹 Design REST APIs & backend systems  
-- 🔹 Develop high-performance frontend (React / Next.js)  
-- 🔹 Cloud & DevOps integration  
-- 🔹 Performance optimization  
+<p>
+I specialize in building robust backend systems and scalable architectures for startups, enterprises, and individual clients. 
+Whether you need a complete SaaS platform, API development, or DevOps consulting, I bring ideas to life with clean, maintainable code.
+</p>
 
 ---
 
-## 💼 Services I Offer
+```js
+const abhishekKumar = {
+    title: "Full Stack Developer & Backend Engineer",
+    location: "India 🇮🇳",
+    specialization: [
+        "Backend Development",
+        "API Design",
+        "DevOps",
+        "System Architecture"
+    ],
+    currentlyLearning: [
+        "NestJS",
+        "Advanced DevOps",
+        "CI/CD Pipelines",
+        "Kubernetes"
+    ],
+    availableFor: "Freelance Projects & Collaboration",
+    email: "your@email.com"
+};
 
-### 🧠 Full Stack Development
-- React & Next.js UI Development  
-- Backend APIs (Node.js, Express)  
-- State Management (Redux)  
+ 💼 Services I Offer
 
-### ⚙️ Backend & DevOps
-- REST API Development  
-- Microservices Architecture  
-- Docker, CI/CD, AWS Deployment  
+🏗️ Backend Development
+RESTful & GraphQL API Design
+Microservices Architecture
+Database Design & Optimization
+Authentication & Authorization
+Real-time Systems (WebSockets)
+☁️ DevOps & Cloud
+Docker Containerization
+CI/CD Pipeline Setup
+AWS Deployment & Management
+Nginx Configuration
+Server Optimizationt  
 
 ---
-
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
