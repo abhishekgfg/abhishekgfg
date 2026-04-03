@@ -46,10 +46,12 @@ const abhishekKumar = {
 
 ## 💼 Services I Offer
 
+<div align="center">
+
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #d0d7de; padding:20px; border-radius:6px;">
 
 ### 🏗️ Backend Development
 
@@ -61,7 +63,7 @@ const abhishekKumar = {
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #d0d7de; padding:20px; border-radius:6px;">
 
 ### ☁️ DevOps & Cloud
 
@@ -75,6 +77,8 @@ const abhishekKumar = {
 
 </tr>
 </table>
+
+</div>
 ---
  🛠 Tech Stack
 
