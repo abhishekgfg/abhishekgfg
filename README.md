@@ -41,7 +41,7 @@ const abhishekKumar = {
         "Kubernetes"
     ],
     availableFor: "Freelance Projects & Collaboration",
-    email: "your@email.com"
+    email: "abhishek8579013@gmail.com"
 };
 
 ## 💼 Services I Offer
