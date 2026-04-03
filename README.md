@@ -44,9 +44,7 @@ const abhishekKumar = {
     email: "your@email.com"
 };
 
- ## 💼 Services I Offer
-
-<div align="center">
+## 💼 Services I Offer
 
 <table>
 <tr>
@@ -54,6 +52,7 @@ const abhishekKumar = {
 <td width="50%" valign="top">
 
 ### 🏗️ Backend Development
+
 - RESTful & GraphQL API Design  
 - Microservices Architecture  
 - Database Design & Optimization  
@@ -65,6 +64,7 @@ const abhishekKumar = {
 <td width="50%" valign="top">
 
 ### ☁️ DevOps & Cloud
+
 - Docker Containerization  
 - CI/CD Pipeline Setup  
 - AWS Deployment & Management  
@@ -75,8 +75,6 @@ const abhishekKumar = {
 
 </tr>
 </table>
-
-</div>
 ---
  🛠 Tech Stack
 
