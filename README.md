@@ -46,14 +46,12 @@ const abhishekKumar = {
 
 ## 💼 Services I Offer
 
-<div align="center">
-
 <table>
 <tr>
 
-<td width="50%" valign="top" style="border:1px solid #d0d7de; padding:20px; border-radius:6px;">
+<td width="50%" valign="top">
 
-### 🏗️ Backend Development
+#### 🏗️ Backend Development
 
 - RESTful & GraphQL API Design  
 - Microservices Architecture  
@@ -63,9 +61,9 @@ const abhishekKumar = {
 
 </td>
 
-<td width="50%" valign="top" style="border:1px solid #d0d7de; padding:20px; border-radius:6px;">
+<td width="50%" valign="top">
 
-### ☁️ DevOps & Cloud
+#### ☁️ DevOps & Cloud
 
 - Docker Containerization  
 - CI/CD Pipeline Setup  
@@ -77,8 +75,6 @@ const abhishekKumar = {
 
 </tr>
 </table>
-
-</div>
 ---
  🛠 Tech Stack
 
