@@ -117,6 +117,11 @@ Passionate **Full Stack Developer** skilled in building **scalable, high-perform
 ### 📊 Quick Stats
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header&text=GitHub%20Statistics&fontSize=30&fontColor=white" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Total_Commits-1,200+-00F7FF?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PRs_Merged-85+-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Issues_Closed-45+-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -133,7 +138,9 @@ Passionate **Full Stack Developer** skilled in building **scalable, high-perform
   <img src="https://img.shields.io/badge/Test_Coverage-85%25-00F7FF?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Documentation-100%25-00F7FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+</p>
 ---
 
 ### 🎯 Current Focus
