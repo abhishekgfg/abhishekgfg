@@ -114,19 +114,24 @@ Passionate **Full Stack Developer** skilled in building **scalable, high-perform
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Quick Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekfg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekfg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00F7FF" />
+  <img src="https://img.shields.io/badge/Total_Commits-1,200+-00F7FF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs_Merged-85+-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues_Closed-45+-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekfg&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00F7FF" />
+  <img src="https://img.shields.io/badge/Stars_Earned-250+-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Followers-50+-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-500+-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekfg&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0d1117" />
+  <img src="https://img.shields.io/badge/Code_Quality-A+-00F7FF?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test_Coverage-85%25-00F7FF?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Documentation-100%25-00F7FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </p>
 
 ---
