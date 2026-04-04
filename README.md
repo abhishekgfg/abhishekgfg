@@ -142,7 +142,44 @@ Passionate **Full Stack Developer** skilled in building **scalable, high-perform
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
 </p>
 ---
+### 📊 GitHub Analytics & Achievements
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,8&height=50&section=header&text=🔥%20PRO%20STATS%20🔥&fontSize=25&fontColor=white" />
+</p>
+
+<!-- Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekfg&theme=tokyonight" />
+</p>
+
+<!-- Your Original Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekfg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekfg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00F7FF" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekfg&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00F7FF" />
+</p>
+
+<!-- Trophy Stats -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekfg&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0d1117" />
+</p>
+
+<!-- Extra Achievement Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Total_Commits-1,200+-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐_Stars_Earned-250+-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔀_PRs_Merged-85+-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐛_Issues_Fixed-45+-00F7FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer" />
+</p>
 ### 🎯 Current Focus
 
 ```javascript
