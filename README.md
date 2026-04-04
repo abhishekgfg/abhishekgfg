@@ -46,35 +46,21 @@ const abhishekKumar = {
 
 ## 💼 Services I Offer
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-#### 🏗️ Backend Development
-
+### 🏗️ Backend Development
 - RESTful & GraphQL API Design  
 - Microservices Architecture  
 - Database Design & Optimization  
 - Authentication & Authorization  
 - Real-time Systems (WebSockets)  
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td width="50%" valign="top">
-
-#### ☁️ DevOps & Cloud
-
+### ☁️ DevOps & Cloud
 - Docker Containerization  
 - CI/CD Pipeline Setup  
 - AWS Deployment & Management  
 - Nginx Configuration  
 - Server Optimization  
-
-</td>
-
-</tr>
-</table>
 ---
  🛠 Tech Stack
 
